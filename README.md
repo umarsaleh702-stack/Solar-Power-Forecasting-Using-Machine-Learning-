@@ -99,7 +99,6 @@ The developed forecasting model successfully captured the relationship between w
 * Matplotlib
 * Scikit-Learn
 * Jupyter Notebook
----
 
 ## APPLICATIONS
 
